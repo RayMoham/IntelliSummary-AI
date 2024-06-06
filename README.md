@@ -1,3 +1,4 @@
+</div>
 
   <h3 align="center">An AI Article Summarizer Website</h3>
 
@@ -19,6 +20,7 @@
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
+
 
 
 ## <a name="introduction">🤖 Introduction</a>
