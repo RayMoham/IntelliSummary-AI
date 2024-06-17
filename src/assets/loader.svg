@@ -8,6 +8,7 @@
   <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#ee6123">
     <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.8666666666666667s" repeatCount="indefinite"></animate>
   </rect>
+  
 </g><g transform="rotate(48 50 50)">
   <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#ee6123">
     <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.8s" repeatCount="indefinite"></animate>
