@@ -6,7 +6,9 @@ export const articleApi = createApi({
     reducerPath: 'articleApi',
     
     baseQuery: fetchBaseQuery({
-        baseUrl: 'https://article-extractor-and-summarizer.p.rapidapi.com/',
+        baseUrl: 'https://article-extractor-and-summarizer.p.rapidapi.com/', 
+
+        
         prepareHeaders: (headers) => {
             
             headers.set('X-RapidAPI-Key', rapidApiKey);
