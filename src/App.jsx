@@ -17,6 +17,7 @@ const App = () => {
         <Hero />
         <Demo />
       </div>
+      
     </main>
     
   );
