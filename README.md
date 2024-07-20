@@ -1,10 +1,11 @@
-</div>
+<div align="center">
   <br />
-    <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_ai_summarizer/assets/151519281/90267296-c133-4cb1-a27e-fe1a3aa522b9" alt="Project Banner">
+    <a>
+      <img src="https://usenotioncms.com/proxy-prod/block/5cb74bbc-81da-42fd-80b7-3f479b3322f8/2027d774-bdda-4b65-a60b-c46bd75ee318/a2ea0a9f-321d-4988-bb88-11711c8e9ee2/the_best_article_summary_generator.jpg" alt="Project Banner">
     </a>
   <br />
-  
+
+
   <h3 align="center">AI Article Summarizer Website</h3>
 
   <div>
@@ -28,7 +29,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Summarize any kind of article with just one click using the powerful OpenAI model.
+Introducing our AI Summarizer App, the ultimate tool for condensing lengthy articles into concise summaries with just one click. Leveraging cutting-edge OpenAI technology, our app revolutionizes the way you digest information, making it easier, faster, and more efficient.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
@@ -36,12 +37,12 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js
-- TypeScript
-- Redux Toolkit
-- Tailwind CSS
+- React.js: Used for building the user interface, providing a dynamic and responsive experience.
+- TypeScript: Employed to enhance code quality and maintainability with strong typing.
+- Redux Toolkit: Utilized for state management, enabling efficient data handling and API requests.
+- Tailwind CSS: Applied for styling the application, ensuring a modern and consistent design.
 
-## <a name="features">🔋 Features</a>
+## <a name="Features">🔋 Features</a>
 
 👉 **Modern User Interface**: A modern and user-friendly interface, offering an intuitive experience for users.
 
@@ -55,7 +56,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="Quick-Start Installation">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -100,7 +101,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+## <a name="Snippets">🕸️ Snippets</a>
 
 <details>
 <summary><code>App.css</code></summary>
@@ -240,13 +241,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
    rel="stylesheet"
 />
-```
+
+
 
 </details>
 
-## <a name="links">🔗 Links</a>
+## <a name="links & Visuals">🔗 Links</a>
 
 Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
+
 
 Contributing
 ------------
