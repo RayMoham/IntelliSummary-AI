@@ -1,5 +1,5 @@
+## <a name="introduction">📋 AI Article Summarizer Website</a>
 
-##  <a  align="center" name="table">AI Article Summarizer Website</a>
 
 <div align="center">
   <br />
@@ -8,14 +8,13 @@
     </a>
   <br />
 
-
-
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Redux-black?style=for-the-badge&logoColor=white&logo=redux&color=764ABC" alt="redux" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
+
 
 </div>
 
@@ -27,7 +26,7 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-
+7. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -39,12 +38,12 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js: Used for building the user interface, providing a dynamic and responsive experience.
-- TypeScript: Employed to enhance code quality and maintainability with strong typing.
-- Redux Toolkit: Utilized for state management, enabling efficient data handling and API requests.
-- Tailwind CSS: Applied for styling the application, ensuring a modern and consistent design.
+- **React.js**: Used for building the user interface, providing a dynamic and responsive experience.
+- **TypeScript**: Employed to enhance code quality and maintainability with strong typing.
+- **Redux Toolkit**: Utilized for state management, enabling efficient data handling and API requests.
+- **Tailwind CSS**: Applied for styling the application, ensuring a modern and consistent desig
 
-## <a name="Features">🔋 Features</a>
+## <a name="features">🔋 Features</a>
 
 👉 **Modern User Interface**: A modern and user-friendly interface, offering an intuitive experience for users.
 
@@ -58,7 +57,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability 
 
-## <a name="Quick-Start Installation">🤸 Quick Start</a>
+## <a name="quick-start">🤸 Quick Start Installation</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -73,8 +72,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/RayMoham/Ai_Summarizer-App.git
-cd Ai_Summarizer-App
+git clone https://github.com/adrianhajdin/project_ai_summarizer.git
+cd project_ai_summarizer
 ```
 
 **Installation**
@@ -103,7 +102,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="Snippets">🕸️ Snippets</a>
+## <a name="snippets">🕸️ Snippets</a>
 
 <details>
 <summary><code>App.css</code></summary>
@@ -243,20 +242,23 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
    rel="stylesheet"
 />
-
-
+```
 
 </details>
 
-## <a name="links & Visuals">🔗 Links</a>
+## <a name="links">🔗 Links & Visuals</a>
 
 Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
 
+<div align="center">
+  <br />
+    <a>
+      <img src="https://usenotioncms.com/proxy-prod/block/5cb74bbc-81da-42fd-80b7-3f479b3322f8/2027d774-bdda-4b65-a60b-c46bd75ee318/a2ea0a9f-321d-4988-bb88-11711c8e9ee2/the_best_article_summary_generator.jpg" alt="Project Banner">
+       <img src="https://usenotioncms.com/proxy-prod/block/5cb74bbc-81da-42fd-80b7-3f479b3322f8/2027d774-bdda-4b65-a60b-c46bd75ee318/a2ea0a9f-321d-4988-bb88-11711c8e9ee2/the_best_article_summary_generator.jpg" alt="Project Banner">
+    </a>
+  <br />
 
 Contributing
 ------------
 
 If you would like to contribute to the project, feel free to submit a pull request. Please ensure that your changes are in line with the project's coding standards and practices.
-
-
-
