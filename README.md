@@ -1,5 +1,5 @@
 
-## 📋 <a name="table">AI Article Summarizer Website</a>
+##  <a  align="center" name="table">AI Article Summarizer Website</a>
 
 <div align="center">
   <br />
