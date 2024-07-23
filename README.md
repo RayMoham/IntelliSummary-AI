@@ -1,4 +1,4 @@
-## <a name="introduction">📋 AI Article Summarizer Website</a>
+# AI Article Summarizer Website
 
 
 <div align="center">
