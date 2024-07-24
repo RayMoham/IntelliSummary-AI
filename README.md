@@ -1,4 +1,4 @@
-# AI Article Summarizer Website
+# IntelliSummary - (AI Article Summarizer Website)
 
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Introducing our AI Summarizer App, the ultimate tool for condensing lengthy articles into concise summaries with just one click. Leveraging cutting-edge OpenAI technology, our app revolutionizes the way you digest information, making it easier, faster, and more efficient.
+Introducing my AI Summarizer App, the ultimate tool for condensing lengthy articles into concise summaries with just one click. Leveraging cutting-edge OpenAI technology, our app revolutionizes the way you digest information, making it easier, faster, and more efficient.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
