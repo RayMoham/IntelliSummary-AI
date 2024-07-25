@@ -246,15 +246,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 </details>
 
-## <a name="links">🔗 Links & Visuals</a>
+## <a name="links">🔗 Links & Visual UI</a>
 
 Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
 
 <div align="center">
   <br />
     <a>
-      <img src="https://usenotioncms.com/proxy-prod/block/5cb74bbc-81da-42fd-80b7-3f479b3322f8/2027d774-bdda-4b65-a60b-c46bd75ee318/a2ea0a9f-321d-4988-bb88-11711c8e9ee2/the_best_article_summary_generator.jpg" alt="Project Banner">
-       <img src="https://usenotioncms.com/proxy-prod/block/5cb74bbc-81da-42fd-80b7-3f479b3322f8/2027d774-bdda-4b65-a60b-c46bd75ee318/a2ea0a9f-321d-4988-bb88-11711c8e9ee2/the_best_article_summary_generator.jpg" alt="Project Banner">
+      <img src="image.png" alt="Project Banner">
+      <img src="image-1.png" alt="Project Banner">
     </a>
   <br />
 
