@@ -5,6 +5,7 @@ const rapidApiKey = import.meta.env.VITE_RAPID_API_ARTICLE_KEY;
 export const articleApi = createApi({
     reducerPath: 'articleApi',
     
+    
     baseQuery: fetchBaseQuery({
         baseUrl: 'https://article-extractor-and-summarizer.p.rapidapi.com/', 
 
