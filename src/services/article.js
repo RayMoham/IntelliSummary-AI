@@ -8,6 +8,7 @@ export const articleApi = createApi({
     
     baseQuery: fetchBaseQuery({
         baseUrl: 'https://article-extractor-and-summarizer.p.rapidapi.com/', 
+        
 
         
         prepareHeaders: (headers) => {
